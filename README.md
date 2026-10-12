@@ -1,4 +1,5 @@
 # Juego Inicializar Pygame
+import pygame
 pygame.init()
 
 whidth = 800
