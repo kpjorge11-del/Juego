@@ -1,3 +1,5 @@
 # Juego
-whidth,heigth=800,600
-FPS=60
+whidtg = 800
+heigth = 600
+FPS = 60
+
