@@ -1,9 +1,9 @@
-# Juego
-whidtg = 800
-heigth = 600
-FPS = 60
-def main ():
+# Juego Inicializar Pygame
 pygame.init()
-screen = 
+
+whidth = 800
+height = 600
+FPS = 60
+
 
 
